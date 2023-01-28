@@ -29,6 +29,15 @@ int main()
 	{
 	  low=mid+1;
 	}
+}
+if(flag==1)
+{
+  printf("element found");
+}
+else
+{
+  printf("element not found");
+}
 	
 	
 	
